@@ -3,4 +3,4 @@ title = "Teaching"
 descripttion = "WIP"
 +++
 
-I teach an intermediate microeconomics class
+I teach an intermediate-level microeconomics class. The class [website](https://pharringtonp19.github.io/mecon/) will be updated and complete for the start of the fall semester. 
