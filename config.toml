@@ -30,7 +30,7 @@ hermit_menu = [
 
 hermit_social = [
     { name = "email", link = "ppower1@bu.edu" },
-    { name = "github", link = "https://github.com/pharringtonp19" }
+    { name = "github", link = "https://github.com/" }
 ]
 
 
