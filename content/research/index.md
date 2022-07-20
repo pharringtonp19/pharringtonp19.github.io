@@ -7,12 +7,12 @@ descripttion = "WIP"
 
 **[Regularizing the Forward Pass (RFP)](https://www.overleaf.com/project/62925289505fc3e8f64a0674)**\
 <div style="padding-left: 30px;">
-In line with the thinking that "nonparametric identitifcation + parameteric estimation -> causal flavor" (as mostly prominently advocated for in Mostly Harmless Econometrics), we build upon our work in (<a href="https://www.overleaf.com/project/62d813cdbcfea4e31284e1de">GAC</a>) by introducing a model that that generalizes OLS, flexible accounts for clustering effects and is inherently compositional. Based upon recent developments in deep learning (i.e Neural ODEs and MAML), our model provides an attractive alternative to the classical approach (i.e linear model + cluster standard errors).
+In line with the thinking that "nonparametric identitifcation + parameteric estimation -> causal flavor" (as mostly prominently advocated for in Mostly Harmless Econometrics), we build upon our work in (<a href="https://www.overleaf.com/project/62d813cdbcfea4e31284e1de">GAC</a>) by introducing a model that that generalizes OLS, flexibly accounts for clustering effects and is inherently compositional (even when accounting for the regularization!). Based upon recent developments in deep learning (i.e <a href="https://arxiv.org/abs/2202.02435">Neural ODEs</a> and <a href="https://arxiv.org/abs/1703.03400">MAML</a>), our model provides an attractive alternative to the classical approach (i.e linear model + cluster standard errors).
 </div>
 
 **[Generalizing Across Clusters](https://www.overleaf.com/project/62d813cdbcfea4e31284e1de)**\
 <div style="padding-left: 30px;">
-Observational data is messy. To account for this, econometric methods should be well targeted (i.e. address a specific issue) and composable (i.e. the components fit togther). Building upon prominent work in the meta-learning community, we introduce a relatively simple, model agnostic approach which accounts for the clustered nature of one's data. Specifically, we introduce a gradient correction that favors early stopping at the cluster level. 
+Observational data is messy. To account for this, econometric methods should be well-targeted (i.e. address a specific issue) and composable (i.e. the components fit togther).  With this aim in mind, we show that a regularized version of <a href="https://arxiv.org/abs/1703.03400">MAML</a> is a simple and general method for adapting estimators to clustered data. Conceputally, the approach can be understood as a gradient correction that favors early stopping at the cluster level. 
 </div>
 
 
