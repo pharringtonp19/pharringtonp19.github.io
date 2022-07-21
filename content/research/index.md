@@ -12,7 +12,7 @@ In line with the thinking that "nonparametric identitifcation + parameteric esti
 
 **[Generalizing Across Clusters](https://www.overleaf.com/project/62d813cdbcfea4e31284e1de)**\
 <div style="padding-left: 30px;">
-Observational data is messy. To account for this, econometric methods should be well-targeted (i.e. address a specific issue) and composable (i.e. the components fit togther).  With this aim in mind, we show that a regularized version of <a href="https://arxiv.org/abs/1703.03400">MAML</a> is a simple and general method for adapting estimators to clustered data. Conceputally, the approach can be understood as a gradient correction that favors early stopping at the cluster level. 
+Rarely is there a pre-established estimator that addresses most of the issues competing for "first-order" importance in observational studies. In light of this, econometric methods ought to be well-targeted (i.e. address a specific issue) and composable (i.e. the components fit together) so that researchers can adjust their models to their specific context. With this aim in mind, we illustrate that a regularized version of <a href="https://arxiv.org/abs/1703.03400">MAML</a> is a conceptually simply, composable way to adjust one's estimator in the presence of clustered data. Conceptually, the approach can be understood as a gradient correction that favors early stopping at the cluster level.
 </div>
 
 
