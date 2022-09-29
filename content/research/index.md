@@ -3,7 +3,7 @@ title = "Research"
 descripttion = "WIP"
 +++
 
-## Works in Progress
+## Working Papers
 
 **[The Right to Counsel at Scale](https://github.com/pharringtonp19/eviction_paper/blob/main/The_Right_to_Counsel_at_Scale.pdf)** (Job Market Paper) (with Shomik Ghosh and Markus Schwedeler)
 <div style="padding-left: 30px;">
