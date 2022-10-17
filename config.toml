@@ -33,8 +33,6 @@ hermit_social = [
     { name = "github", link = "https://github.com/pharringtonp19" },
 ]
 
-
-
 [extra.highlightjs]
 enable = true
 clipboard = true
