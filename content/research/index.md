@@ -5,7 +5,7 @@ descripttion = "WIP"
 
 ## Working Papers
 
-**[Regularizing the Forward Pass](https://github.com/pharringtonp19/jmp_paper/blob/main/jmp.pdf)** (Job Market Paper) (with Shomik Ghosh and Markus Schwedeler)
+**[A Deep Learning Assessment of the Right to Counsel](https://github.com/pharringtonp19/jmp_paper/blob/main/jmp.pdf)** (Job Market Paper) (with Shomik Ghosh and Markus Schwedeler)
 <div style="padding-left: 30px;">
 Drawing from the Deep Learning Literature and in the language of Category Theory, we introduce a simple and unified structure that generalizes ordinary least squares, allows for nonparametric cluster effects, and is inherently compositional, even under regularization. With this framework, we examine the effects of the Right to Counsel: a policy which ensures that low-income households facing eviction have access to free legal representation. Complimenting the existing Economic Literature on the topic, we consider the extent to which the policy makes it harder for low-income individuals to find housing. As some have suggested, if the Right to Counsel increases the cost of evicting a tenant, landlords might respond by making it more difficult to rent a unit in the first place. Exploiting the staggered roll-out of the policy across the state of Connecticut, our preliminary results suggest that certain subsets of the population may be adversely affected by the policy. 
 </div>
