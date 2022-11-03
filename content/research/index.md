@@ -7,6 +7,9 @@ descripttion = "WIP"
 
 **[A Deep Learning Assessment of the Right to Counsel](https://github.com/pharringtonp19/jmp_paper/blob/main/jmp.pdf)** (Job Market Paper) (with Shomik Ghosh and Markus Schwedeler)
 <div style="padding-left: 30px;">
+
+<iframe src="https://slides.com/pharringtonp19/rtc/embed" width="576" height="420" title="rtc" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Drawing from the Deep Learning Literature and in the language of Category Theory, we introduce a unified estimation framework that generalizes ordinary least squares, allows for nonparametric cluster effects, and is inherently compositional, even under regularization. With this framework, we examine the effects of the Right to Counsel: a policy which ensures that low-income households facing eviction have access to free legal representation. Specifically, we consider the extent to which the policy increases housing instability by making it harder for low-income households to secure housing in the first place. Exploiting the ongoing roll-out of the policy across the state of Connecticut, our preliminary results suggest that housing is harder to secure in areas with higher eviction rates, which suggests  that the policy is less effective at scale than previously understood. 
 </div>
 
