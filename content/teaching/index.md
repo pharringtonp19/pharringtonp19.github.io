@@ -16,6 +16,6 @@ $$\big( \Omega, \mathcal{F}, \mathbb{P} \big) \quad X: \Omega \to \mathcal{R}$$
 
 ### Math on the Computer
 
-A lot of time is wasted in Economic courses explaining how to solve optimization problems. In this class, we focus on how to build economic models, not how to solve them. For example, we discuss and work through how we want to model consumer heterogeneity (by allowing the parameters of the utility and constraint functions to differ across individuals). We don't worry about how to solve these models. That ism we focus more on the economics of the model and less on the engineering. We're able to do so by writing our models in python and then simpling calling a solver. An example slide that highlights this process is shown below.
+A lot of time is wasted in Economic courses explaining how to solve optimization problems. In this class, we focus on how to build economic models, not how to solve them. For example, we discuss and work through how we want to model consumer heterogeneity (by allowing the parameters of the utility and constraint functions to differ across individuals). We don't worry about how to solve these models. This allows us to focus more on the economics of the model and less on the engineering. We're do so by writing our models in python and calling solvers on these models. An example slide that highlights this process is shown below.
 
 ![](./../teaching/math_on_the_computer.png)
