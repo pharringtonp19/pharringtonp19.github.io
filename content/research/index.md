@@ -14,9 +14,24 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
 
 ## Works in Progress
 
-**Regularizing the Forward Pass**
-
-**Assessing the Right to Counsel**
+<table>
+<tr>
+<td>
+<strong>Regularizing the Forward Pass</strong><br>
+Patrick Power, Shomik Ghosh, Markus Schwedeler
+<a href="https://github.com/pharringtonp19/rfp_paper"><img alt="Paper" src="https://img.shields.io/badge/-Paper-gray"></a>
+<a href="https://github.com/pharringtonp19/rfp"><img alt="Code" src="https://img.shields.io/badge/-Code-gray" ></a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>The Stabalizing Effects of the Right to Counsel</strong><br>
+Patrick Power, Shomik Ghosh, Markus Schwedeler
+<a href="https://github.com/pharringtonp19/rtc_paper/blob/main/jmp.pdf"><img alt="Paper" src="https://img.shields.io/badge/-Paper-gray"></a>
+<a href="https://github.com/pharringtonp19/rtc_paper"><img alt="Code" src="https://img.shields.io/badge/-Code-gray" ></a>
+</td>
+</tr>
+</table>
 
 
 
