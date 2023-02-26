@@ -3,9 +3,9 @@ title = "Research"
 descripttion = "WIP"
 +++
 
-Hi
 
-<!-- ## Published Works 
+
+## Published Works 
 **[How the Reformulation of OxyContin Ignited the Heroin Epidemic](https://direct.mit.edu/rest/article-abstract/101/1/1/58660/How-the-Reformulation-of-OxyContin-Ignited-the?redirectedFrom=fulltext)**\
 <div style="padding-left: 30px;">
 We attribute the recent quadrupling of heroin death rates to the August 2010 reformulation of an oft-abused prescription opioid, OxyContin. The new abuse-deterrent formulation led many consumers to substitute an inexpensive alternative, heroin. Using structural break techniques and variation in substitution risk, we find that opioid consumption stops rising in August 2010, heroin deaths begin climbing the following month, and growth in heroin deaths was greater in areas with greater prereformulation access to heroin and opioids. The reformulation did not generate a reduction in combined heroin and opioid mortality: each prevented opioid death was replaced with a heroin death.
@@ -33,7 +33,7 @@ Patrick Power, Shomik Ghosh, Markus Schwedeler
 <a href="https://github.com/pharringtonp19/rtc_paper"><img alt="Code" src="https://img.shields.io/badge/-Code-gray" ></a>
 </td>
 </tr>
-</table> -->
+</table>
 
 
 
