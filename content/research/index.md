@@ -14,7 +14,11 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
 </div>
 
 
+## Works in Progress
 
+**The Right to Counsel at Scale** 
+
+**Regularizing the Forward Pass**
 
 
 <!-- **[A Deep Learning Assessment of the Right to Counsel](https://github.com/pharringtonp19/jmp_paper/blob/main/jmp.pdf)** (Job Market Paper) (with Shomik Ghosh and Markus Schwedeler)
