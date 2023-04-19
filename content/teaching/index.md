@@ -26,7 +26,7 @@ descripttion = "WIP"
     }
 </style>
 
-I have taught Intermediate Microeconomics in the Fall of 2021 and 2022, and will teach a sophomore level seminar course on housing and homelessness in the Fall of 2023.
+I teach an Intermediate Microeconomics course (Fall 2021, 2022) and a sophomore level seminar course on Housing and Homelessness (Fall 2023).
 
 <br>
 
