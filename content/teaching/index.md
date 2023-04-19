@@ -32,11 +32,12 @@ I have taught Intermediate Microeconomics in the Fall of 2021 and 2022, and will
 
 <div class="iframe-container">
     <div class="iframe-zoom">
-        <div class="iframe-title">Sophmore Seminar Course</div>
+        <div class="iframe-title"><a href="https://pharringtonp19.github.io/housing-and-homelessness/">Sophomore Seminar Course</a>
+</div>
         <iframe src="https://pharringtonp19.github.io/housing-and-homelessness/" width="425" height="700" frameborder="0" scrolling="yes"></iframe>
     </div>
     <div class="iframe-zoom">
-        <div class="iframe-title">Intermediate Micro</div>
+        <div class="iframe-title"><a href="https://pharringtonp19.github.io/mecon/">Intermediate Micro</div>
         <iframe src="https://pharringtonp19.github.io/mecon/" width="425" height="700"  frameborder="0" scrolling="yes"></iframe>
     </div>
 </div>
