@@ -28,12 +28,12 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
 
 <div style="clear:both;">
   <h3 style="clear:both;">The Right to Counsel at Scale</h3>
-  <iframe src="papers/rtc_paper_adj.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe>
+  <iframe src="/papers/rtc_paper_adj.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe>
 </div>
 
 <div style="clear:both;">
   <h3 style="clear:both;">Regularizing the Forward Pass</h3>
-  <iframe src="papers/rfp_paper_adj.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe>
+  <iframe src="/papers/rfp_paper_adj.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe>
 </div>
 
 
