@@ -12,8 +12,12 @@ descripttion = "WIP"
 
 
 ## Published Works 
-**[How the Reformulation of OxyContin Ignited the Heroin Epidemic](https://direct.mit.edu/rest/article-abstract/101/1/1/58660/How-the-Reformulation-of-OxyContin-Ignited-the?redirectedFrom=fulltext)**\
-<div style="padding-left: 30px;">
+
+<h3> <a href="https://direct.mit.edu/rest/article-abstract/101/1/1/58660/How-the-Reformulation-of-OxyContin-Ignited-the?redirectedFrom=fulltext" style="color: inherit; text-decoration: none;" onmouseover="this.style.textDecoration='none'" onmouseout="this.style.textDecoration='none'">
+ How the Reformulation of OxyContin Ignited the Heroin Epidemic</a> 
+ </h3>
+
+<div style="padding-left: 30px;  text-align: left">
 We attribute the recent quadrupling of heroin death rates to the August 2010 reformulation of an oft-abused prescription opioid, OxyContin. The new abuse-deterrent formulation led many consumers to substitute an inexpensive alternative, heroin. Using structural break techniques and variation in substitution risk, we find that opioid consumption stops rising in August 2010, heroin deaths begin climbing the following month, and growth in heroin deaths was greater in areas with greater prereformulation access to heroin and opioids. The reformulation did not generate a reduction in combined heroin and opioid mortality: each prevented opioid death was replaced with a heroin death.
 
 William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of OxyContin Ignited the Heroin Epidemic. The Review of Economics and Statistics 2019; 101 (1): 1–15.
