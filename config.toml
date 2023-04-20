@@ -20,8 +20,7 @@ highlight_code = true
 [extra]
 home_subtitle = "Economics PhD @ Boston University"
 logo = '/images/vmountains.png'
-favicon = '/images/vmountains.png'
-
+ 
 
 
 footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -55,3 +54,7 @@ email = "ppower1@bu.edu"
 [extra.google_analytics]
 enable = false
 id = "UA-4XXXXXXX-X"
+
+[extra.favicon]
+icon = "/images/vmountains.png"
+
