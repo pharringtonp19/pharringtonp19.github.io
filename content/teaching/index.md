@@ -5,6 +5,10 @@ descripttion = "WIP"
 
 
 <style>
+    body {
+        font-family: 'Palatino';
+    }
+
     .iframe-zoom {
         width: 800px;
         height: 600px;
@@ -23,10 +27,13 @@ descripttion = "WIP"
         font-weight: bold;
         margin-bottom: 1rem;
         text-align: center;
+        font-family: Palatino;
     }
 </style>
 
+<div style="font-family: Palatino;font-size: 18px; text-align: left"> 
 I teach an Intermediate Microeconomics course (Fall 2021, 2022) and a sophomore level seminar course on Housing and Homelessness (Fall 2023).
+</div>
 
 <br>
 

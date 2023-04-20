@@ -3,6 +3,12 @@ title = "Research"
 descripttion = "WIP"
 +++
 
+<style>
+    body {
+        font-family: 'Palatino';
+        text-align: left"
+    }
+</style>
 
 
 ## Published Works 
