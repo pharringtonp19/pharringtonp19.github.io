@@ -54,7 +54,3 @@ email = "ppower1@bu.edu"
 [extra.google_analytics]
 enable = false
 id = "UA-4XXXXXXX-X"
-
-[extra.favicon]
-icon = "/images/vmountains.png"
-
