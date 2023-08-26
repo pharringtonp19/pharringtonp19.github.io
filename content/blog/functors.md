@@ -1,9 +1,11 @@
 +++
-title = "Functors"
-date = 2023-01-03
+title = "Learning"
+date = 2023-06-05
 +++
 
-> Functions map and preserve
+
+
+<!-- > Functions map and preserve
 
 A function maps a set into another set. 
 
@@ -17,4 +19,4 @@ $$f( v_1 +_v v_2) = f(v_1) +_w f(v_2) $$
 
 ```haskell
 f ::  
-``` -->
+``` --> -->
