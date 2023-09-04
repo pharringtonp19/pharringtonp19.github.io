@@ -29,7 +29,7 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
   <h3 style="clear:both;" > <a href="https://pharringtonp19.github.io/rtc_paper/"> The Right to Counsel at Scale</a></h3>  
   <div style="padding-left: 30px;  text-align: left"> Our paper assesses the impact of the Right to Counsel on housing stability. The Right to Counsel is a policy which ensures that low-income tenants facing eviction have access to free legal representation. Exploiting the recent zip code level adoption of this policy across the state of Connecticut, we provide empirical estimates regarding  whether legal representation improves legal \& housing outcomes for those currently housed and whether the policy adversely effects those who are currently unhoused. Regression analysis for the intention-to-treat and IV estimates are performed using linear models, fine-tuned large language models and cluster regularized neural networks. Additionally, we provide insight about the type of tenants most likely to respond to the policy as well as how lawyers can alter their aims to improve the downstream outcomes of their clients.
     </div>
-  <iframe src="/papers/rtc_paper_adj.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe>
+  <iframe src="/papers/The_Right_to_Counsel_at_Scale_latest.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe>
 </div>
 
 <div style="clear:both;">
