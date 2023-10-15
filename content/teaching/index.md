@@ -34,6 +34,7 @@ descripttion = "WIP"
 
 <div style="font-family: Palatino;font-size: 18px; text-align: left"> 
 I teach an Intermediate Microeconomics course (Fall 2021, 2022) and a sophomore level seminar course on Housing and Homelessness (Fall 2023).
+
 </div>
 
 <br>
