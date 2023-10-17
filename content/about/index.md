@@ -12,9 +12,9 @@ title = "About"
 <div style="display:flex; flex-direction:row; flex-wrap:nowrap; justify-content:space-between;text-align: left">
   <div style="flex:1; max-width:48%;"> 
 
-  I am a PhD student of Economics at Boston University. My research focuses on issues related to low-income households, specifically opioid use and housing. In this context, I am interested in applying deep-learning/AI techniques to better assess the effects of policies like the "Right to Counsel" in eviction cases (Job Market Paper).
+  I am a PhD student of Economics at Boston University. My research focuses on issues related to low-income households, specifically opioid use and housing. In this context, I am interested in applying deep-learning techniques to better assess the effects of policies like the "Right to Counsel" in eviction cases ([Job Market Paper](https://github.com/pharringtonp19/papers/blob/main/The_Right_to_Counsel_at_Scale_latest.pdf)).
 
-  I've taught two semesters of Intermediate Microeconomics at Boston University (Fall 2021 & 2022) and am currently teaching an a seminar on the Economics of Housing and Homelessness at Harvard University. 
+  I've taught two semesters of Intermediate Microeconomics at Boston University (Fall 2021 & 2022) and am currently teaching a seminar on the Economics of Housing and Homelessness at Harvard University. 
 
   I am advised by Ivan Fernandez-Val, Hiroaki Kaido and Kevin Lang of Boston University. 
 
