@@ -24,17 +24,19 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
 </div>
 
 
-## Works in Progress
+## Working Papers
 <div style="clear:both;">
-  <h3 style="clear:both;" > <a href="https://pharringtonp19.github.io/rtc_paper/"> The Right to Counsel at Scale</a></h3>  
-  <div style="padding-left: 30px;  text-align: left"> Our paper assesses the impact of the Right to Counsel on housing stability. The Right to Counsel is a policy which ensures that low-income tenants facing eviction have access to free legal representation. Exploiting the recent zip code level adoption of this policy across the state of Connecticut, we provide empirical estimates regarding  whether legal representation improves legal \& housing outcomes for those currently housed and whether the policy adversely effects those who are currently unhoused. Regression analysis for the intention-to-treat and IV estimates are performed using linear models, fine-tuned large language models and cluster regularized neural networks. Additionally, we provide insight about the type of tenants most likely to respond to the policy as well as how lawyers can alter their aims to improve the downstream outcomes of their clients.
+  <h3 style="clear:both;" > <a href="https://github.com/pharringtonp19/papers/blob/main/The_Right_to_Counsel_at_Scale_latest.pdf"> The Right to Counsel at Scale</a></h3>  
+  <div style="padding-left: 30px;  text-align: left"> We assess how the Right to Counsel affects housing stability. The Right to Counsel ensures that low-income tenants facing eviction have access to free legal representation. We exploit the recent adoption of this policy in some, but not all, zip codes in Connecticut. We show that legal representation improves court housing outcomes for those currently housed but adversely effects those currently unhoused. We use linear regression analysis for the intent-to-treat and IV estimates. We confirm our results using fine-tuned large language models and cluster regularized neural networks. We also provide insight about the type of tenants most likely to respond to the policy and how lawyers' strategies affect their clients housing outcomes.
     </div>
-  <iframe src="/papers/The_Right_to_Counsel_at_Scale_latest.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe>
+  <!-- <iframe src="/papers/The_Right_to_Counsel_at_Scale_latest.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe> -->
 </div>
+
+## Works in Progress 
 
 <div style="clear:both;">
   <h3 style="clear:both;"id="regularizing-forward-pass"><a href="https://pharringtonp19.github.io/rfp_paper/">Regularizing the Forward Pass</a></h3>
-  <iframe src="/papers/rfp_paper_adj.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe>
+  <!-- <iframe src="/papers/rfp_paper_adj.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe> -->
 </div>
 
 
