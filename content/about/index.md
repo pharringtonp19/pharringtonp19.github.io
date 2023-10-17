@@ -30,7 +30,7 @@ title = "About"
 
   </div>
   <div style="flex:1;max-width:48%;">
-    <img src="/images/paths.png" alt="image" style="max-width:100%;height:auto;object-fit:contain;">
+    <img src="/images/prof.png" alt="image" style="max-width:100%;height:auto;object-fit:contain;">
   </div>
 
 </div>
