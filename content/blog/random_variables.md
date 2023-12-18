@@ -10,7 +10,7 @@ date = 2023-03-01
 
 </style>
 
-One question I asked myself at lot at the beginning of graduate school was, "At what level do I need to know something?" My current rough answer to this question is that you should try to know something at the level at which you can begin to compose it with other ideas. Composing ideas is how we build things. So if you know it at this level, you can at least begin to build with your ideas. 
+One question I asked myself at lot at the beginning of graduate school was, "At what level do I need to know something?" My current rough answer to this question is that you should try to know something at the level at which you can begin to compose it with other ideas. Composing ideas is how we build things. So if you know it at this level, you can at least begin to build with your new knowledge. 
 
 One of the challenges with learning statics in undergrad is that it usually isn't taught at the depth in which you can begain to compose things. The result is that many smart people struggle to really understand statistics. They don't have a framework or a sense for how things go togther. They carry around a bunch of seperate and distinct ideas in their head. 
 

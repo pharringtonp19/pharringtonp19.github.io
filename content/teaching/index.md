@@ -65,7 +65,7 @@ My own thinking is that more and more undergraduate work will be project based w
 
 Ultimately, however the education of Economics develops, students will always be presented with challenging tasks that push them out of their comfort zone. My experience has been that in order for students to invest the time and energy required to extend themselves, they need to know that you have their best interest in mind. That while you’re asking them to do their best, you’re also doing everything you can to help them be successful. 
 
-Like most graduate students, I’ve certainly made my fair share of mistakes as a teacher both in terms of the material I chose to present and the way that I presented it. I’ve been fortunate to have been given the opportunity though to teach two semesters at Boston University and this fall at Harvard. As with anything, though, with experience and reflection you become better. And I think that currently, I would be comfortable teaching a range of courses from principles of microeconomics to the applications of machine learning in Economics.
+Like most graduate students, I’ve certainly made my fair share of mistakes as a teacher both in terms of the material I chose to present and the way that I presented it. I’ve been fortunate to have been given the opportunity though to teach two semesters at Boston University and this fall at Harvard University. As with anything, though, with experience and reflection you become better. Currently, I would be comfortable teaching a range of courses from Principles of Microeconomics to the Applications of Machine Learning in Economics.
 
 
 
