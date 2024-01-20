@@ -41,15 +41,26 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
 
 <div style="clear:both;">
   <h3 style="clear:both;">
-  Regularizing the Forward Pass
+  Instrumental LLMs
   </h3>
+
+  <div style="padding-left: 30px;  text-align: left; min-width: 900px !important;">
+  In many applied microeconomic contexts, the underlying data is text (Health, Education, Housing). Causal inference in this setting has typically proceeded by hand selecting numerical presentations of the text, and estimating the corresponding conditional expectation function (assuming that treatment or the instrument is locally randomly assigned).  Recent developments in Natural Language Processing/AI though have an introduced an alternative ways to produce causal estimates from text. In this paper we (1) clarify the general framework for using fine-tuned large language models for causal inference and (2) highlight their relative strengths in the setting of IV with preferential treatment.
+</div>
 </div>
 
 <div style="clear:both;">
   <h3 style="clear:both;">
-  Instrumental LLMs
+  Regularizing the Forward Pass
   </h3>
+    <div style="padding-left: 30px;  text-align: left; min-width: 900px !important;">
+  </div>
+ <div style="padding-left: 30px;  text-align: left; min-width: 900px !important;">
+We introduce an estimation framework that allows for nonparametric cluster effects. It generalizes least squares and is inherently compositional, even under regularization. 
 </div>
+</div>
+
+
   <!-- <h3 style="clear:both;"id="regularizing-forward-pass"><a href="https://pharringtonp19.github.io/rfp_paper/">Regularizing the Forward Pass</a></h3> -->
   <!-- <iframe src="/papers/rfp_paper_adj.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe> -->
 
