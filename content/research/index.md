@@ -45,7 +45,7 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
   </h3>
 
   <div style="padding-left: 30px;  text-align: left; min-width: 900px !important;">
-  In many applied microeconomic contexts, the underlying data is text (Health, Education, Housing). Causal inference in this setting has typically proceeded by hand selecting numerical presentations of the text, and estimating the corresponding conditional expectation function (assuming that treatment or the instrument is locally randomly assigned).  Recent developments in Natural Language Processing/AI though have an introduced an alternative ways to produce causal estimates from text. In this paper we (1) clarify the general framework for using fine-tuned large language models for causal inference and (2) highlight their relative strengths in the setting of IV with preferential treatment.
+  In many applied microeconomic contexts, the underlying data is text (Health, Education, Housing). Causal inference in this setting has typically proceeded by hand selecting numerical representations of the text and estimating the corresponding conditional expectation function assuming that treatment or the instrument is locally randomly assigned.  Recent developments in Natural Language Processing/AI though have an introduced alternative ways to produce causal estimates from text. In this paper we (1) clarify the general framework for using fine-tuned large language models for causal inference and (2) highlight their relative strengths in the setting of IV with preferential treatment.
 </div>
 </div>
 
