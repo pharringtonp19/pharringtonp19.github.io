@@ -37,17 +37,17 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
   <!-- <iframe src="/papers/The_Right_to_Counsel_at_Scale_latest.pdf" width="100%" height="400px" style="border: none !important; margin-top: 20px; margin-bottom: 20px; float: center;"></iframe> -->
 </div>
 
-## Works in Progress 
-
 <div style="clear:both;">
-  <h3 style="clear:both;">
-  Instrumental LLMs
-  </h3>
+ <h3 style="clear:both;" > <a href="https://github.com/pharringtonp19/papers/blob/main/Instrumental_LLMs.pdf"> Instrumental LLMs</a></h3>  
 
   <div style="padding-left: 30px;  text-align: left; min-width: 900px !important;">
   In many applied microeconomic contexts, the underlying data is text (Health, Education, Housing). Causal inference in this setting has typically proceeded by hand selecting numerical representations of the text and estimating the corresponding conditional expectation function assuming that treatment or the instrument is locally randomly assigned.  Recent developments in Natural Language Processing/AI though have an introduced alternative ways to produce causal estimates from text. In this paper we (1) clarify the general framework for using fine-tuned large language models for causal inference and (2) highlight their relative strengths in the setting of IV with preferential treatment.
 </div>
 </div>
+
+## Works in Progress 
+
+
 
 <div style="clear:both;">
   <h3 style="clear:both;">
