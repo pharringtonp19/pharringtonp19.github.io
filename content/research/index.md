@@ -45,20 +45,19 @@ William N. Evans, Ethan M. J. Lieber, Patrick Power; How the Reformulation of Ox
 </div>
 </div>
 
-## Works in Progress 
-
-
-
 <div style="clear:both;">
-  <h3 style="clear:both;">
-  Regularizing the Forward Pass
-  </h3>
-    <div style="padding-left: 30px;  text-align: left; min-width: 900px !important;">
-  </div>
- <div style="padding-left: 30px;  text-align: left; min-width: 900px !important;">
-We introduce an estimation framework that allows for nonparametric cluster effects. It generalizes least squares and is inherently compositional, even under regularization. 
+ <h3 style="clear:both;" > <a href="https://github.com/pharringtonp19/papers/blob/main/Regularizing_the_Forward_Pass.pdf"> Regularizing the Forward Pass</a></h3>  
+
+  <div style="padding-left: 30px;  text-align: left; min-width: 900px !important;">
+In certain applied microeconomic settings, it's typical to view one's dataset as the realization of a stratified cluster randomized control trial: treatment is assigned at the cluster level (such as zip code), and controls vary at both the individual and cluster level. Locally, this makes it more likely that observation will be from the same cluster which can increase the variance for estimators which don't account for the clustered nature of the data. We introduce a framework for partialling out nonparametric cluster effects in a way that generalizes least squares and is inherently compositional even under regularization. We provide a python library based on JAX: <a href="https://github.com/pharringtonp19/rfp}"> rfp </a>
 </div>
 </div>
+
+ 
+
+
+
+
 
 
   <!-- <h3 style="clear:both;"id="regularizing-forward-pass"><a href="https://pharringtonp19.github.io/rfp_paper/">Regularizing the Forward Pass</a></h3> -->
