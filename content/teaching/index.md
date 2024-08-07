@@ -33,7 +33,7 @@ descripttion = "WIP"
 
 
 <div style="font-family: Palatino;font-size: 18px; text-align: left"> 
-I teach an Intermediate Microeconomics course (Fall 2021, 2022) and a sophomore level seminar course on Housing and Homelessness (Fall 2023, Spring 2024).
+I have taught Intermediate Microeconomics (Fall 2021, 2022), Buisness Analytics in Python (Fall 2024) and a seminar course on Housing and Homelessness (Fall 2023, Spring 2024, Fall 2024).
 
 </div>
 
@@ -41,17 +41,25 @@ I teach an Intermediate Microeconomics course (Fall 2021, 2022) and a sophomore 
 
 <div class="iframe-container">
     <div class="iframe-zoom">
-        <div class="iframe-title"><a href="https://pharringtonp19.github.io/housing-and-homelessness/">Sophomore Seminar Course</a>
-</div>
-        <iframe src="https://pharringtonp19.github.io/housing-and-homelessness/" width="425" height="700" frameborder="0" scrolling="yes"></iframe>
+        <div class="iframe-title"><a href="https://pharringtonp19.github.io/housing-and-homelessness/">Housing & Homelessness</a>
+        </div>
+        <iframe src="https://pharringtonp19.github.io/housing-and-homelessness/" width="375" height="700" frameborder="0" scrolling="yes"></iframe>
     </div>
     <div class="iframe-zoom">
-        <div class="iframe-title"><a href="https://pharringtonp19.github.io/mecon/">Intermediate Micro</div>
-        <iframe src="https://pharringtonp19.github.io/mecon/" width="425" height="700"  frameborder="0" scrolling="yes"></iframe>
+        <div class="iframe-title"><a href="https://pharringtonp19.github.io/business-analytics/">Business Analytics</a>
+        </div>
+        <iframe src="https://pharringtonp19.github.io/business-analytics/" width="375" height="700" frameborder="0" scrolling="yes"></iframe>
     </div>
+    <!-- <div class="iframe-zoom">
+        <div class="iframe-title"><a href="https://pharringtonp19.github.io/mecon/">Intermediate Micro</div>
+        <iframe src="https://pharringtonp19.github.io/mecon/" width="375" height="700"  frameborder="0" scrolling="yes"></iframe>
+    </div> -->
 </div>
 <br>
 <br> 
+
+
+ 
 
 # **Philosophy**
 
