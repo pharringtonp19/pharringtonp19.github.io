@@ -12,11 +12,13 @@ title = "About"
 <div style="display:flex; flex-direction:row; flex-wrap:nowrap; justify-content:space-between;text-align: left">
   <div style="flex:1; max-width:48%;"> 
 
-  I am a PhD student of Economics at Boston University. My research focuses on issues related to low-income households, specifically opioid use and housing. In this context, I am interested in applying deep-learning techniques to better assess the effects of policies like the "Right to Counsel" in eviction cases ([Job Market Paper](https://github.com/pharringtonp19/papers/blob/main/The_Right_to_Counsel_at_Scale_latest.pdf)).
+  I am a Postdoctoral Fellow at Boston University's Business School and a Teaching Fellow at Harvard University. 
+  
+  My research focuses on issues related to low-income households, specifically opioid use and housing. In this context, I am interested in applying deep-learning techniques to better assess the effects of policies like the "Right to Counsel" in eviction cases ([Job Market Paper](https://github.com/pharringtonp19/papers/blob/main/The_Right_to_Counsel_at_Scale_latest.pdf)).
 
-  I've taught two semesters of Intermediate Microeconomics at Boston University (Fall 2021 & 2022) and am currently teaching a seminar on the Economics of Housing and Homelessness at Harvard University. 
-
-  I am advised by Ivan Fernandez-Val, Hiroaki Kaido and Kevin Lang of Boston University. 
+  I currently teach a seminar on the Economics of Housing and Homelessness at Harvard University as well as a Business Analytics course in Python at Boston University.
+  
+  Outside of class, I assist Boston University's sailing team and am a board member on the Rhode Island Coalition to End Homelessness. 
 
 
    <!-- My research interests were initially shaped by my undergraduate experience at the University of Notre Dame. Working with Bill Evans and Ethan Lieber, I became interested in studying the effectiveness of policies that shape/influence the lives of low income individuals. In graduate school, as a part of Winnie Van Dijk’s reading groups at Harvard on Housing and Homeless, these interests were only further solidified. To date, I’ve worked on papers related to the opioid epidemic as well as the role of legal aid in evictions. And this fall, I am teaching an undergraduate seminar course at Harvard on the Economics of Housing and Homelessness.
@@ -30,7 +32,7 @@ title = "About"
 
   </div>
   <div style="flex:1;max-width:48%;">
-    <img src="/images/prof.png" alt="image" style="max-width:100%;height:auto;object-fit:contain;">
+    <img src="/images/pattyp.png" alt="image" style="max-width:100%;height:auto;object-fit:contain;">
   </div>
 
 </div>
