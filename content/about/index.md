@@ -16,7 +16,7 @@ title = "About"
   
   My research and teaching focuses on the Economics of housing and homelessness. I teach an undergraduate seminar course on the topic. And my research applies deep-learning techniques to better assess the effects of policies like the "Right to Counsel" in eviction cases ([Job Market Paper](https://github.com/pharringtonp19/papers/blob/main/The_Right_to_Counsel_at_Scale_latest.pdf)). 
 
-  I am also interested in programming, causal inference, and probability, and have taught most of an [introductory analytics](https://pharringtonp19.github.io/business-analytics/) class on these concepts. 
+  I am also interested in programming, causal inference, and probability, and have taught an [introductory analytics](https://pharringtonp19.github.io/business-analytics/) class on these concepts. 
 
   To get in contact, email me at patrick.h.power@yale.edu or ppower@fas.harvard.edu 
  
