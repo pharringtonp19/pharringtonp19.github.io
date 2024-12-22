@@ -2,7 +2,7 @@
 base_url = "https://pharringtonp19.github.io"
 
 title = "Patrick Power"
-description = "Economics PhD @ Boston University"
+description = "Data Scientist @ Yale's School of Public Health"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
