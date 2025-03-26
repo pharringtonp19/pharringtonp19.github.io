@@ -29,11 +29,25 @@ descripttion = "WIP"
         text-align: center;
         font-family: Palatino;
     }
+    ul {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .university {
+            color: #666;
+            font-style: italic;
+        }
 </style>
 
 
 <div style="font-family: Palatino;font-size: 18px; text-align: left"> 
-I have taught Intermediate Microeconomics (Fall 2021, 2022), Buisness Analytics in Python (Fall 2024) and a seminar course on Housing and Homelessness (Fall 2023, Spring 2024, Fall 2024).
+
+   <ul>
+        <li>The Economics of Housing and Homelessness: Fall 2023 - Fall 2025 <span class="university">(Harvard University)</span></li>
+        <li>The Economics of Presidential Policies: Fall 2025 <span class="university">(Harvard University)</span></li>
+        <li>Business Analytics in Python: Fall 2024 <span class="university">(Boston University)</span></li>
+        <li>Intermediate Microeconomics: Fall 2021, 2022 <span class="university">(Boston University)</span></li>
+    </ul>
 
 </div>
 
