@@ -12,7 +12,7 @@ title = "About"
 <div style="display:flex; flex-direction:row; flex-wrap:nowrap; justify-content:space-between;text-align: left">
   <div style="flex:1; max-width:48%;"> 
 
-  I am a Teaching Fellow in the Economics Department at Harvard University.  I am also a board memeber on Rhode Island's Coalition to End Homelessness.
+  I am a Teaching Fellow in the Economics Department at Harvard University.
 
  
 

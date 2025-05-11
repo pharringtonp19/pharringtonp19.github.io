@@ -60,9 +60,9 @@ descripttion = "WIP"
         <iframe src="https://pharringtonp19.github.io/housing-and-homelessness/" width="375" height="700" frameborder="0" scrolling="yes"></iframe>
     </div>
     <div class="iframe-zoom">
-        <div class="iframe-title"><a href="https://pharringtonp19.github.io/business-analytics/">Business Analytics</a>
+        <div class="iframe-title"><a href="https://daffodil-brand-804.notion.site/?pvs=4">Business Analytics</a>
         </div>
-        <iframe src="https://pharringtonp19.github.io/business-analytics/" width="375" height="700" frameborder="0" scrolling="yes"></iframe>
+        <iframe src="https://daffodil-brand-804.notion.site/?pvs=4" width="375" height="700" frameborder="0" scrolling="yes"></iframe>
     </div>
     <!-- <div class="iframe-zoom">
         <div class="iframe-title"><a href="https://pharringtonp19.github.io/mecon/">Intermediate Micro</div>
