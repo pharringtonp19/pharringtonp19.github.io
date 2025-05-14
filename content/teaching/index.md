@@ -4,40 +4,7 @@ descripttion = "WIP"
 +++
 
 
-<style>
-    body {
-        font-family: 'Palatino';
-    }
 
-    .iframe-zoom {
-        width: 800px;
-        height: 600px;
-        transform: scale(0.8);
-        transform-origin: 0 0;
-    }
-    .iframe-container {
-        display: flex;
-        justify-content: space-between;
-    }
-    .iframe-container .iframe-zoom {
-        width: 48%;
-    }
-    .iframe-title {
-        font-size: 1.5rem;
-        font-weight: bold;
-        margin-bottom: 1rem;
-        text-align: center;
-        font-family: Palatino;
-    }
-    ul {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .university {
-            color: #666;
-            font-style: italic;
-        }
-</style>
 
 
 <div style="font-family: Palatino;font-size: 18px; text-align: left"> 
@@ -53,24 +20,28 @@ descripttion = "WIP"
 
 <br>
 
-<div class="iframe-container">
-    <div class="iframe-zoom">
-        <div class="iframe-title"><a href="https://pharringtonp19.github.io/housing-and-homelessness/">Housing & Homelessness</a>
-        </div>
-        <iframe src="https://pharringtonp19.github.io/housing-and-homelessness/" width="375" height="700" frameborder="0" scrolling="yes"></iframe>
-    </div>
-    <div class="iframe-zoom">
-        <div class="iframe-title"><a href="https://daffodil-brand-804.notion.site/?pvs=4">Business Analytics</a>
-        </div>
-        <iframe src="https://daffodil-brand-804.notion.site/?pvs=4" width="375" height="700" frameborder="0" scrolling="yes"></iframe>
-    </div>
-    <!-- <div class="iframe-zoom">
-        <div class="iframe-title"><a href="https://pharringtonp19.github.io/mecon/">Intermediate Micro</div>
-        <iframe src="https://pharringtonp19.github.io/mecon/" width="375" height="700"  frameborder="0" scrolling="yes"></iframe>
-    </div> -->
+
+# **Current Courses (Fall 2025)**
+<div style="margin-bottom: 20px;">
+  <iframe src="https://daffodil-brand-804.notion.site/ebd/11752d8e3f6d80648911c8bdc23d11c6" 
+          width="100%" 
+          height="500" 
+          frameborder="0" 
+          allowfullscreen
+          loading="lazy"
+          sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
 </div>
-<br>
-<br> 
+<div>
+  <iframe src="https://daffodil-brand-804.notion.site/ebd/1b152d8e3f6d8081bfcbeb41dcb09895" 
+          width="100%" 
+          height="500" 
+          frameborder="0" 
+          allowfullscreen
+          loading="lazy"
+          sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
+</div>
+
+
 
 
  
@@ -88,31 +59,3 @@ My own thinking is that more and more undergraduate work will be project based w
 Ultimately, however the education of Economics develops, students will always be presented with challenging tasks that push them out of their comfort zone. My experience has been that in order for students to invest the time and energy required to extend themselves, they need to know that you have their best interest in mind. That while you’re asking them to do their best, you’re also doing everything you can to help them be successful. 
 
 Like most graduate students, I’ve certainly made my fair share of mistakes as a teacher both in terms of the material I chose to present and the way that I presented it. I’ve been fortunate to have been given the opportunity though to teach two semesters at Boston University and this fall at Harvard University. As with anything, though, with experience and reflection you become better. Currently, I would be comfortable teaching a range of courses from Principles of Microeconomics to the Applications of Machine Learning in Economics.
-
-
-
-
-
-<!-- <style>
-    .iframe-zoom {
-        width: 800px;
-        height: 600px;
-        transform: scale(0.8);
-        transform-origin: 0 0;
-        display: flex;
-        justify-content: center;
-    }
-</style>
-
-
-## **Economics Seminar on Housing and Homelessness**
-<div class="iframe-zoom">
-<iframe src="https://pharringtonp19.github.io/housing-and-homelessness/" width="500" height="500" frameborder="0" scrolling="yes"></iframe>
-</div>
-
-
-## **Intermediate Microeconomics** 
-
-<div class="iframe-zoom">
-<iframe src="https://pharringtonp19.github.io/mecon/" width="500" height="500" frameborder="0" scrolling="yes"></iframe>
-</div> -->
